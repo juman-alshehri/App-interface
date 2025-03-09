@@ -239,7 +239,7 @@ const UserEdit = ({ navigation, theme, reduxLang, route, rtl, setIsAuth, isDark 
                     color={theme.primary}
                     size={theme.appFontSize.largeSize}
                     accessibilityLabel={
-                      rtl ? 'ايقونه دائرة المستخدم' : 'Icon: User Circle' // Arabic and English labels based on RTL
+                      rtl ? 'ايقونه دائرة  المستخدم' : 'Icon: User Circle' // Arabic and English labels based on RTL
                     }
                   />
 
